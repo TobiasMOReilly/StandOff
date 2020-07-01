@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd67d5a44b3d23e4a969dca3a9ddc694, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: efa1cb03af6db846b4555c46e1058fef
+    GuidInternal: 
+    m_lastTime: -8586151714406836695
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: a4f7ea2ab590b348955ce06dffb09732
+    GuidInternal: 
+    m_lastTime: -8586151714410827721
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: a3db2d1fbfe59f49bd5df93df8353889
+    GuidInternal: 
+    m_lastTime: -8586151686872090340
+    List:
+    - name: SoundBankCore
+      guid: a0557ead01269b46bd6e9a0253ebf690
+      id: 3287187589
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: SoundBankCore
+        ObjectType: 7
+      Path: Default Work Unit\SoundBankCore
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: ae864bd1afafb248a9bd6a4f6530a6db
+    GuidInternal: 
+    m_lastTime: -8586151693307791350
+    List:
+    - name: PlayGunShot
+      guid: ada36942eda7dd4b9d63db6eb73403ce
+      id: 3533507663
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: PlayGunShot
+        ObjectType: 3
+      Path: Default Work Unit\PlayGunShot
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 711b88a6a3c8fd4492b8aa2c33b972e7
+    GuidInternal: 
+    m_lastTime: -8586151714407476867
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 365255a3612fbd4198d3843158bdf9cd
+    GuidInternal: 
+    m_lastTime: -8586151714410047511
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 571b4f20552780418e5909d924ead58c
+    GuidInternal: 
+    m_lastTime: -8586151714409837467
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 6f79de8a24ea544588f026a514f5327e
+    GuidInternal: 
+    m_lastTime: -8586151714407886976
+    List: []
+  ExpandedItems:
+  - /StandOff - PreProduction_WwiseProject
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 
